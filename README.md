@@ -14,8 +14,8 @@ CREATE TABLE movements (
 ```
 
 ## Generar el jar utilizando maven
-``
-`mvn clean package
+```
+mvn clean package
 ```
 
 ## Ejecutar .jar
